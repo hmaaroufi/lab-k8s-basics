@@ -291,5 +291,8 @@ rm custom-values.yaml
 5. **Repositories** = Distribution centralisée de charts
 6. **Templating** = Génération dynamique de manifests Kubernetes
 
-Ce TP vous donne les bases pour utiliser Helm efficacement dans vos projets Kubernetes !
+## Pipeline CICD  avecc Gitalb, Kubernetes , HELM
+
+<img width="2048" height="1043" alt="image" src="https://github.com/user-attachments/assets/fb1891a6-5f6a-4939-915a-bbe86895ae38" />
+
 
